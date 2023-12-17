@@ -19,5 +19,6 @@ public class Price_Chapter08 {
 		};
 		System.out.println(userAge);
 		System.out.println(serviceCost);
+		System.out.println(userAge + "代の料金は" + serviceCost + '円');
 	}
 }
